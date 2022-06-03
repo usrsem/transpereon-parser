@@ -4,7 +4,7 @@
 
 Fill account data in `config.js` module
 
-bash```
+```
 npm i
 node .
 ```
